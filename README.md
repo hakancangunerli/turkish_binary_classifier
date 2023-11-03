@@ -1,5 +1,5 @@
 ### Overview:
-This document summarizes the results obtained from the Turkish Name Classifier, which was developed to predict whether a given name belongs to a Turkish individual. The code includes steps for data preprocessing, model training, and evaluation. Here, we focus on understanding the model's performance and insights drawn from the predictions.
+This document summarizes the results obtained from the Turkish Name Classifier, which was developed to predict whether a given name belongs to a Turkish individual. The code includes steps for data preprocessing, model training, and evaluation. Here, we focus on understanding the model's performance and insights drawn from the predictions. Data was obtained from philipperemy's name dataset (https://github.com/philipperemy/name-dataset#full-dataset) made up of nearly 492 million people's names. 
 
 
 ### Model Evaluation Results:
